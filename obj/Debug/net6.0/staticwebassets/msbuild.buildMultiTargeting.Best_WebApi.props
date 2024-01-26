@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Best_WebApi.props" />
+</Project>

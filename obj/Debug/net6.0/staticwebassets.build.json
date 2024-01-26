@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3prenUymk6tPw3Wt22UqnXH/Go397fvHRfYM48hPczk=",
+  "Source": "Best_WebApi",
+  "BasePath": "_content/Best_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Best_WebApi\\wwwroot",
+      "Source": "Best_WebApi",
+      "ContentRoot": "D:\\Best对战平台\\Best_WebApi\\wwwroot\\",
+      "BasePath": "_content/Best_WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
